@@ -11,7 +11,7 @@ from moviepy.editor import *
 import aiofiles
 
 
-token = 'MTIwMjM3MTcyMjI3MjA1NTMwNg.Gc2ZPz.0xj2WXJUc3S_l6AS0gHwV5usmxbfmVdYUYe2ok'
+token = 'ой'
 
 intents = discord.Intents.all()
 

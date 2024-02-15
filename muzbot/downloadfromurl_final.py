@@ -56,10 +56,10 @@ def get_download_url(url):
 
 import os
 
-# Укажите путь к папке, которую вы хотите просканировать
+
 folder_path = r'C:\Users\wowbg\PycharmProjects\pythonProject3\muzbot\music'
 
-# Проходим по всем файлам в папке
+
 for root, dirs, files in os.walk(folder_path):
     for file_name in files:
         file_path = os.path.join(root, file_name)
